@@ -9,7 +9,7 @@ import pandas as pd
 import requests
 from sklearn.model_selection import train_test_split
 
-from radix_mlops_challenge.constants import DATA_F
+from radix_se_challenge.constants import DATA_F
 
 
 def download(write_f: Path | None = None) -> pd.DataFrame:

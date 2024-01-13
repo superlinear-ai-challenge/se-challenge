@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from pathlib import Path
 
-from radix_mlops_challenge.data.generate import download, split
+from radix_se_challenge.data.generate import download, split
 
 
 class TestData:
