@@ -15,7 +15,7 @@ from sklearn.multiclass import OneVsRestClassifier
 from sklearn.preprocessing import MultiLabelBinarizer
 from tqdm import tqdm
 
-from radix_mlops_challenge.model.utils import simple_process
+from radix_se_challenge.model.utils import simple_process
 
 
 class Model:

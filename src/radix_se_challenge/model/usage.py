@@ -6,9 +6,9 @@ from pathlib import Path
 
 import pandas as pd
 
-from radix_mlops_challenge.constants import MDL_F
-from radix_mlops_challenge.model import Model
-from radix_mlops_challenge.model.evaluation import apk
+from radix_se_challenge.constants import MDL_F
+from radix_se_challenge.model import Model
+from radix_se_challenge.model.evaluation import apk
 
 
 def train(df: pd.DataFrame, mdl_f: Path | None = None) -> None:
