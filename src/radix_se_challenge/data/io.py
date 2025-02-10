@@ -4,8 +4,8 @@ from __future__ import annotations
 
 import pandas as pd
 
-from radix_se_challenge.constants import DATA_F
-from radix_se_challenge.data.generate import main as generate_datasets
+from superlinear_se_challenge.constants import DATA_F
+from superlinear_se_challenge.data.generate import main as generate_datasets
 
 
 def load_train_test() -> tuple[pd.DataFrame, pd.DataFrame]:

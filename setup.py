@@ -10,9 +10,9 @@ with open(Path(__file__).parent / "requirements.txt", "r") as f:
     requirements = [line.strip() for line in f.readlines() if line.strip() and line[0] != "#"]
 
 setup(
-    name="radix_se_challenge",
+    name="superlinear_se_challenge",
     version="0.0.0",
-    description="Hiring challenge for the Software Engineer applicants at Radix.",
+    description="Hiring challenge for the Software Engineer applicants at Superlinear.",
     package_dir={"": "src"},
     packages=find_packages(where="src"),
     install_requires=requirements,

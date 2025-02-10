@@ -1,6 +1,6 @@
-# Radix - SE Hiring Challenge
+# Superlinear - SE Hiring Challenge
 
-Hiring challenge for the Software Engineer applicants at Radix.
+Hiring challenge for the Software Engineer applicants at Superlinear.
 
 
 ## Challenge description 🔖
@@ -22,7 +22,7 @@ Any other best practice implementations are optional, but could be assessed duri
 
 1. Clone this repository
 2. Ensure that your code is private
-3. Invite `RadixChallenge` (`challenge@radix.ai`) as a collaborator to your repository
+3. Invite `RadixChallenge` (`challenge@superlinear.eu`) as a collaborator to your repository
 
 ### Local setup
 
@@ -38,9 +38,9 @@ If all four of the invoke commands run, then you're good to go!
 
 ## Questions? 🤨
 
-We would love to help you with the challenge, but unfortunately we can't. 😉 That being said, if you find a bug or have troubles setting up your environment, we're happy to help you at [challenge@radix.ai](mailto:challenge@radix.ai)! 
+We would love to help you with the challenge, but unfortunately we can't. 😉 That being said, if you find a bug or have troubles setting up your environment, we're happy to help you at [challenge@superlinear.eu](mailto:challenge@superlinear.eu)! 
 
 
 ## Good luck! 🚀
 
-![Radix](https://media-exp1.licdn.com/dms/image/C4D0BAQH7Tz0v-I5l1g/company-logo_200_200/0/1569474265425?e=2159024400&v=beta&t=TiThE4sfIokh1WfVN04aM7qgcI__285c2xkE0bEzCtA)
+![Superlinear](https://media.licdn.com/dms/image/v2/D4E0BAQFQRO9yT7a3UQ/company-logo_200_200/company-logo_200_200/0/1726128392134/radix_ai_logo?e=1747267200&v=beta&t=AQkJHhKiaTMvwDAyfrgF2et9oDfOuEzqDX_PGOOdit0)

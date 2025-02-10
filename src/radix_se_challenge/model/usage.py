@@ -6,9 +6,9 @@ from pathlib import Path
 
 import pandas as pd
 
-from radix_se_challenge.constants import MDL_F
-from radix_se_challenge.model import Model
-from radix_se_challenge.model.evaluation import apk
+from superlinear_se_challenge.constants import MDL_F
+from superlinear_se_challenge.model import Model
+from superlinear_se_challenge.model.evaluation import apk
 
 
 def train(df: pd.DataFrame, mdl_f: Path | None = None) -> None:
@@ -49,7 +49,7 @@ def evaluate(df: pd.DataFrame, mdl_f: Path | None = None) -> dict[str, float]:
 
 
 if __name__ == "__main__":
-    from radix_mlops_challenge.data import load_train_test
+    from superlinear_se_challenge.data import load_train_test
 
     # Load in the datasets
     df_train, df_test = load_train_test()

@@ -7,7 +7,7 @@ repos:
     rev: v3.3.0
     hooks:
       - id: check-added-large-files
-        args: ['--maxkb=16384']
+        args: ["--maxkb=16384"]
       - id: check-ast
       - id: check-builtin-literals
       - id: check-byte-order-marker
@@ -52,7 +52,7 @@ repos:
         entry: flake8
         language: system
         types: [python]
-  - repo: https://github.com/radix-ai/auto-smart-commit
+  - repo: https://github.com/superlinear-ai/auto-smart-commit
     rev: v1.0.2
     hooks:
       - id: auto-smart-commit

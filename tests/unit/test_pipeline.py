@@ -7,8 +7,8 @@ from pathlib import Path
 import pandas as pd
 import pytest
 
-from radix_se_challenge.data import load_train_test
-from radix_se_challenge.model import evaluate, train
+from superlinear_se_challenge.data import load_train_test
+from superlinear_se_challenge.model import evaluate, train
 
 
 class TestPipeline:
