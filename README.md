@@ -22,7 +22,7 @@ Any other best practice implementations are optional, but could be assessed duri
 
 1. Clone this repository
 2. Ensure that your code is private
-3. Invite `RadixChallenge` (`challenge@superlinear.eu`) as a collaborator to your repository
+3. Invite `SuperlinearChallenge` (`challenge@superlinear.eu`) as a collaborator to your repository
 
 ### Local setup
 
